@@ -1,0 +1,41 @@
+_repo: The-Life-Trial-Confession-and-Execution-of-Albert-W-Hicks-The-Pirate-and-Murderer-Executed-on__66941
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Fowler, L. N. (Lorenzo Niles)
+    alias: Fowler, Lorenzo Niles
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '36271'
+    url: http://www.gutenberg.org/2009/agents/36271
+creator:
+  author:
+    agent_name: Hicks, Albert W.
+    gutenberg_agent_id: '54039'
+    url: http://www.gutenberg.org/2009/agents/54039
+description: ''
+gutenberg_issued: '2021-12-13'
+identifiers:
+  gutenberg: '66941'
+language: en
+pgterms:marc904: https://archive.org/details/lifetrialconfess00hick
+pgterms:marc905: 20190704231025hicks
+pgterms:marc906: '1860'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Robert M. De Witt,1860.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Life, Trial, Confession and Execution of Albert W. Hicks: The Pirate and
+  Murderer, Executed on Bedloe’s Island, New York Bay, on the 13th of July, 1860,
+  for the Murder of Capt. Burr, Smith and Oliver Watts, on Board the Oyster Sloop
+  E. A. Johnson. Containing the History of His Life (Written by Himself) from Childhood
+  Up to the Time of His Arrest. With a Full Account of His Piracies, Murders, Mutinies,
+  High-way Robberies, etc., Comprising the Particulars of Nearly One Hundred Murders!
+  to which is added the Account of His Arrest, Imprisonment, Trial and Execution.
+  Also, His Phrenological Character, as described by L. N. Fowler.'
+url: http://www.gutenberg.org/ebooks/66941
