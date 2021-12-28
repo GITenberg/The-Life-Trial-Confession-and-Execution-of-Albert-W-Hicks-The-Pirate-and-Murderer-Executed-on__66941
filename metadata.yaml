@@ -8,12 +8,17 @@ contributor:
     deathdate: 1896
     gutenberg_agent_id: '36271'
     url: http://www.gutenberg.org/2009/agents/36271
+covers:
+- cover_type: archival
+  image_path: 66941-h/images/cover.jpg
 creator:
   author:
     agent_name: Hicks, Albert W.
     gutenberg_agent_id: '54039'
     url: http://www.gutenberg.org/2009/agents/54039
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66941#The-Life-Trial-Confession-and-Execution-of-Albert-W-Hicks-The-Pirate-and-Murderer-Executed-on_
 gutenberg_issued: '2021-12-13'
 identifiers:
   gutenberg: '66941'
